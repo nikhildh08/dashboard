@@ -15,10 +15,7 @@ export default function LoginPage() {
       </Head>
 
       <div className="flex h-screen items-center justify-center bg-gray-100">
-        {/* Image Container */}
-        {/* <div className="hidden md:block w-1/2">
-          <Image src="/frame.jpg" alt="Login Image" width={600} height={500} className="object-cover rounded-lg" />
-        </div> */}
+    
 
         {/* Login Form Container */}
         <div className="w-full md:w-1/3 bg-white shadow-lg rounded-lg p-8">
