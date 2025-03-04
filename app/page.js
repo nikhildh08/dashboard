@@ -1,11 +1,11 @@
-"use client";
+// "use client";
 
-import { useRouter } from "next/navigation"; // Import useRouter
+// import { useRouter } from "next/navigation"; /?/ Import useRouter
 import Head from "next/head";
 import Image from "next/image";
 
 export default function LoginPage() {
-  const router = useRouter(); // Initialize Next.js router
+  // const router = useRouter(); // Initialize Next.js router
 
   return (
     <>
